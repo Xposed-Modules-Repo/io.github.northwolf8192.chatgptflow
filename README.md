@@ -6,7 +6,7 @@
 
 - Android 12L / API 32 及以上。
 - 支持现代 libxposed API 102 的 LSPosed。
-- ChatGPT 1.2026.307（versionCode 2630709）。
+- ChatGPT 1.2026.307（构建 2630709、2630717、2630718）。
 - 作用域：`com.openai.chatgpt`。
 
 ## 安装
